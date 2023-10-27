@@ -28,6 +28,6 @@ I'm constantly learning and improving my skills. Currently, I'm exploring Vue, N
 You can reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/almigdad-bolad/)
-- [Email](almigdadbolad@gmail.com)
+- [Email](mailto:almigdadbolad@gmail.com)
 
 Feel free to explore my repositories and reach out for collaborations or discussions.
