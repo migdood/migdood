@@ -8,7 +8,7 @@
 - **Back-End**: C#, ASP.NET
 - **Databases**: SQL, MySQL
 - **Version Control**: Git
-- **Responsive Design**: I design websites that look great on all devices.
+<!-- - **Responsive Design**: I design websites that look great on all devices. -->
 <!---
 ## 🌐 Projects
 
