@@ -5,7 +5,7 @@
 ## 🔧 Skills
 
 - **Front-End**: HTML, CSS, JavaScript, Tailwind CSS
-- **Back-End**: C#, ASP.NET
+- **Back-End**: C#
 - **Databases**: SQL, MySQL
 - **Version Control**: Git
 <!-- - **Responsive Design**: I design websites that look great on all devices. -->
