@@ -21,7 +21,7 @@ Here are a few of my notable projects:
 
 ## 📚 Learning
 
-I'm constantly learning and improving my skills. Currently, I'm exploring Vue, Node.JS, Data Structures and Algorithms.
+I'm constantly learning and improving my skills. Currently, I'm exploring Javascript, Node.JS, Godot 4.2, Data Structures and Algorithms.
 
 ## 📫 Contact Me
 
