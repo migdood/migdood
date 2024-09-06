@@ -1,39 +1,24 @@
-# Almigdad Bolad 🌟
+# Almigdad Bolad
 
-👋 **Hello!** I'm Almigdad, a passionate web and software developer with a diverse skill set in front-end and back-end technologies. I love creating interactive and user-friendly applications and am always eager to learn and grow.
-
-## 🛠️ My Toolbox
-
-### Languages & Technologies:
-- **Web Development:** 
-  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- **Backend & Database:**
-  - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- **Frameworks & Tools:**
-  - ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=flat&logo=windows&logoColor=white)
-  - ![WPF](https://img.shields.io/badge/WPF-68217A?style=flat&logo=windows&logoColor=white)
-  - ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-
-### 🌱 Currently Learning:
-- **WPF:** Diving deeper into Windows Presentation Foundation to create more sophisticated desktop applications.
-- **ASP.NET:** Expanding my knowledge in web development with ASP.NET to leverage C# for building robust web applications.
-
-## 🌐 My Projects
-
-- **[Pharmacy Management System](https://github.com/username/pharmacy-management-system):** A desktop application built with WinForms and MySQL to manage pharmacy operations efficiently.
-- **[2D Top-Down RPG Game](https://github.com/username/top-down-rpg):** An RPG game developed in Godot 4.2 with dynamic enemy spawning mechanics.
-
-## 📈 GitHub Stats
-
-![Almigdad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=migdood&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migdood&layout=compact&theme=radical)
-
+👋 Hello, I'm Almigdad, a web developer with expertise in HTML, CSS, JavaScript, C#, SQL database management and Godot. I'm passionate about creating interactive and user-friendly web applications.
+<!---
+## 🔧 Skills
+- **Front-End**: HTML, CSS, JavaScript, Tailwind CSS
+- **Back-End**: C#
+- **Databases**: SQL, MySQL
+- **Version Control**: Git
+- **Responsive Design**: I design websites that look great on all devices. 
+## 🌐 Projects
+Here are a few of my notable projects:
+- [Project 1 Name](link): A web application showcasing my front-end development skills.
+- [Project 2 Name](link): A back-end application using C# and SQL.
+- [Project 3 Name](link): A responsive design project using Tailwind CSS.
+## 📚 Learning
+I'm constantly learning and improving my skills. Currently, I'm exploring Javascript, Node.JS, Godot 4.2, Data Structures and Algorithms.
+-->
 ## 📫 Contact Me
+
+You can reach out to me on:
 
 Feel free to reach out for collaborations or discussions:
 
