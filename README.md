@@ -1,6 +1,6 @@
 # Almigdad Bolad
 
-👋 Hello, I'm Almigdad, a Software / web developer with expertise in HTML, CSS, JavaScript, C#, SQL database management and Godot. I'm passionate about creating interactive and user-friendly applications.
+👋 Hello, I'm Almigdad, a Software / web developer with expertise in JavaScript, C#, SQL and Godot. I enjoy building apps of all kinds be it CLI tools, desktop apps with WPF and cross-platform apps.
 <!---
 ## 🔧 Skills
 - **Front-End**: HTML, CSS, JavaScript, Tailwind CSS
